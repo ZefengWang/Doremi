@@ -1,2 +1,2 @@
 # Doremi
-About my interesting things
+About interesting things
